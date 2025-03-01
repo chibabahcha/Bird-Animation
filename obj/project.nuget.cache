@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "2+FsQ7/7E00=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\miron\\RiderProjects\\SFML2025\\SFML2025\\SFML2025.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\miron\\.nuget\\packages\\csfml\\2.6.1\\csfml.2.6.1.nupkg.sha512",
+    "C:\\Users\\miron\\.nuget\\packages\\sfml.audio\\2.6.0\\sfml.audio.2.6.0.nupkg.sha512",
+    "C:\\Users\\miron\\.nuget\\packages\\sfml.graphics\\2.6.0\\sfml.graphics.2.6.0.nupkg.sha512",
+    "C:\\Users\\miron\\.nuget\\packages\\sfml.net\\2.6.0\\sfml.net.2.6.0.nupkg.sha512",
+    "C:\\Users\\miron\\.nuget\\packages\\sfml.system\\2.6.0\\sfml.system.2.6.0.nupkg.sha512",
+    "C:\\Users\\miron\\.nuget\\packages\\sfml.system.netcore\\1.0.0\\sfml.system.netcore.1.0.0.nupkg.sha512",
+    "C:\\Users\\miron\\.nuget\\packages\\sfml.window\\2.6.0\\sfml.window.2.6.0.nupkg.sha512",
+    "C:\\Users\\miron\\.nuget\\packages\\sfml.window.netcore\\1.0.0\\sfml.window.netcore.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
